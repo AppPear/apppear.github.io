@@ -1,6 +1,11 @@
 .slideshow-container img{
-	display: block;
+		display: flex;
     margin: auto;
     width: 80%;
-   	padding-top: 15%;
+}
+.container{
+	height: 100vh;
+	width: :100vw;
+	display: flex;
+	align-items: center;
 }
