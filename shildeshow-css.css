@@ -2,24 +2,14 @@
 		display: block;
     margin: auto;
 		/* padding-left: 16.66%; */
-    width: 80%;
+    width: 60vh;
 }
 .slides{
 	display: block;
 	margin: auto;
 }
 .container{
-	display: -webkit-box;
-	display: -webkit-flex;
- 	display: -moz-box;
-	display: -ms-flexbox;
-	display: flex;
- 	-webkit-flex-wrap: wrap;
-		 	-ms-flex-wrap: wrap;
-				 	flex-wrap: wrap;
-
 	height: 100vh;
 	width: :100vw;
-	align-items: center;
-	justify-content: center;
+	transform: translate(0,10vh);
 }
