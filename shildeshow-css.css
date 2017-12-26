@@ -1,6 +1,6 @@
 table{
-	width: 768px;
-	height: 1024px;
+	width: 100%;
+	height: 1300px;
 }
 body{
 	margin: 0px;
@@ -12,9 +12,11 @@ body{
 .black{
 	background-color: black;
 }
+
+
 .border-background{
-	width: 768px;
-	height: 1024px;
+	width: 100%;
+	height: 1333px;
 }
 .slideshow-container img{
 		/* display: block;
