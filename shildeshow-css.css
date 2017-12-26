@@ -1,34 +1,98 @@
-table{
-	width: 100%;
-	height: 1300px;
-}
-body{
-	margin: 0px;
+table {
+  width: 100%;
+  height: 1300px;
 }
 
-.white{
-	background-color: white;
-}
-.black{
-	background-color: black;
+body {
+  margin: 0px;
 }
 
-
-.border-background{
-	width: 100%;
-	height: 1333px;
+.white {
+  background-color: white;
 }
-.slideshow-container img{
-		/* display: block;
+
+.black {
+  background-color: black;
+}
+
+.light-grey {
+  background-color: rgb(201, 199, 200);
+}
+
+.orange {
+  background-color: rgb(140, 140, 140);
+}
+
+.yellow {
+  background-color: rgb(254, 205, 46);
+}
+
+.light-orange {
+  background-color: rgb(243, 130, 51);
+}
+
+.orange {
+  background-color: rgb(253, 98, 36);
+}
+
+.light-green {
+  background-color: rgb(130, 209, 131);
+}
+
+.green {
+  background-color: rgb(71, 178, 73);
+}
+
+.dark-green {
+  background-color: rgb(7, 111, 11);
+}
+
+.light-blue {
+  background-color: rgb(115, 196, 212);
+}
+
+.blue {
+  background-color: rgb(35, 112, 214);
+}
+
+.dark-blue {
+  background-color: rgb(9, 1, 255);
+}
+
+.purple {
+  background-color: rgb(150, 59, 141);
+}
+
+.pink {
+  background-color: rgb(255, 174, 188);
+}
+
+.dark-pink {
+  background-color: rgb(254, 81, 84);
+}
+
+.red {
+  background-color: rgb(254, 59, 33);
+}
+
+.border-background {
+  width: 100%;
+  height: 1333px;
+}
+
+.slideshow-container img {
+  /* display: block;
     margin: auto;
 		padding-top: 12%;
     width: 60vh; */
 }
-.slides{
-	display: block;
-	 margin: auto;
+
+.slides {
+  display: block;
+  margin: auto;
 }
-.container{
-	/* height: 100vh;
+
+.container {
+  /* height: 100vh;
 	width: :100vw; */
 }
