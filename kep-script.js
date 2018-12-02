@@ -1,4 +1,4 @@
-for (i = 45; i < 149; i++) {
+for (i = 149; i < 187; i++) {
   var div = document.createElement("div");
   div.setAttribute('class',"border-background white");
   var table = document.createElement("table");
