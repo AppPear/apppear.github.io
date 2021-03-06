@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url("background.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+
+    align-items: center;
+}
+
+.white-box {
+    height: 60%;
+    width: 75%;
+    background-color: #fff;
+    margin: 0 auto;
+    border: 16px solid #ffc943;
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-font {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80pt;
+    padding-bottom: 16px;
+    text-align: center;
+}
+
+.rose {
+    font-size: 80pt;
+    padding: 40px;
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+.rose-img {
+    width: 50vw;
+    height: 50vw;
+}
